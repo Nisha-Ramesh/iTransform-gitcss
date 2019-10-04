@@ -1,0 +1,5 @@
+This module starts with the basics of how CSS works, including selectors and properties, writing CSS rules, applying CSS to HTML, how to specify length, color, and other units in CSS, cascade and inheritance, box model basics, and debugging CSS.
+Styling text
+This module discusses text styling fundamentals, including setting fonts, boldness, italics, line and letter spacing, text drop shadows, and other text properties. This module finishes with applying custom fonts to your page, and styling lists and links.
+Styling boxes
+This module looks at styling boxes, one of the fundamental steps towards laying out a web page. In this module we recap the box model, then look at controlling box layouts by setting margins, borders, and padding, custom background colors, images and other features, and fancy features such as drop shadows and filters on boxes.
